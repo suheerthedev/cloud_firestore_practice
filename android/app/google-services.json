@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "75434551665",
+    "project_id": "cloud-firestore-practice-2c5aa",
+    "storage_bucket": "cloud-firestore-practice-2c5aa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75434551665:android:5bcf678338f39a0645aed0",
+        "android_client_info": {
+          "package_name": "com.example.cloud_firestore_practice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBepM3T8pSCN4rEHsEvLEtaFh29U0LjIXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
